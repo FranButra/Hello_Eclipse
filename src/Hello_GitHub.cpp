@@ -16,6 +16,7 @@ int main() {
 	cout << "!!Hello it's me - Daniel Cabrera (DCabre)!!" << endl; // prints !!Hola Mundo!!
 	cout << "!!Hello it's me - Miguel Carretero (altmbc)!!" << endl; // prints !!Hola Mundo!!
 	cout << "!!Hello it's me - Diego González Morín" << endl; // prints !!Hola Mundo!!
+	cout << "!!Hello it's me - David Gozalo" << endl; // prints david gozalo
 
 	return 0;
 }
