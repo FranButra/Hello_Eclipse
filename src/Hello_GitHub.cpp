@@ -11,8 +11,8 @@ using namespace std;
 
 int main() {
 
-	cout << "!!Hello it’s me - Fran Butragueño!!" << endl; // prints !!Hola Mundo!!
-	cout << "!!Hello it’s me - Jorge Salvador!!" << endl; // prints !!Hola soy - Jorge Salvador!!
+	cout << "!!Hello it's me - Fran Butragueño!!" << endl; // prints !!Hola Mundo!!
+	cout << "!!Hello it's me - Jorge Salvador!!" << endl; // prints !!Hola soy - Jorge Salvador!!
 	cout << "!!Hello it's me - Daniel Cabrera (DCabre)!!" << endl; // prints !!Hola Mundo!!
 	cout << "!!Hello it's me - Miguel Carretero (altmbc)!!" << endl; // prints !!Hola Mundo!!
 	cout << "!!Hello it's me - Diego Gonz�lez Mor�n" << endl; // prints !!Hola Mundo!!
